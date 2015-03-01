@@ -1,0 +1,10 @@
+﻿Assets/BulletXNA/
+Assets/MMD4Mecanim/
+Assets/Plugins/
+Library/
+Temp/
+Assets/Model/
+Assets/Motion/
+Build/
+obj/
+*.suo
